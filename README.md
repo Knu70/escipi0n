@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ldelegacy
+- 👋 Hi, I’m @escipion
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning ethical hacking
+- 🌱 Ethical Hacker
 
 
 <!---
